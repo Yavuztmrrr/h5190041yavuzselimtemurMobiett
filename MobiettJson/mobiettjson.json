@@ -1,0 +1,727 @@
+[{
+		"id": 1,
+		"hatAdi": "27",
+		"hatResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/hatOtobus/27.png",
+		"otobusler": [{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/27e.png",
+				"otobusAdi": "27E",
+				"yonDuz": "Şirintepe",
+				"yonTers": "Kabataş",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/27e.jpg",
+					"duraklarIlk": "Anıt",
+					"duraklarIki": "Sultan Selim Mahallesi",
+					"duraklarUc": "Sultan Selim Caddesi",
+					"duraklarDort": "4.Levent",
+					"duraklarBes": "Fabrikalar",
+					"duraklarAlti": "Levent",
+					"duraklarYedi": "Zincirlikuyu",
+					"duraklarSekiz": "Balmumcu",
+					"duraklarDokuz": "Darphane",
+					"duraklarOn": "Ertuğrul Sitesi",
+					"duraklarOnbir": "Barbaros Bulvarı",
+					"duraklarOniki": "Beşiktaş Meydan"
+				}
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/27t.png",
+				"otobusAdi": "27T",
+				"yonDuz": "Şirintepe",
+				"yonTers": "Şişli",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/27t.jpg",
+					"duraklarIlk": "Anıt",
+					"duraklarIki": "Sultan Selim Mahallesi",
+					"duraklarUc": "Sultan Selim Caddesi",
+					"duraklarDort": "4.Levent",
+					"duraklarBes": "Fabrikalar",
+					"duraklarAlti": "Levent",
+					"duraklarYedi": "Gayrettepe Metro",
+					"duraklarSekiz": "Esentepe",
+					"duraklarDokuz": "Gayrettepe",
+					"duraklarOn": "Mecidiyeköy Viyadük",
+					"duraklarOnbir": "Şişli",
+					"duraklarOniki": "Şişli Merkez"
+
+				}
+
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/27se.png",
+				"otobusAdi": "27SE",
+				"yonDuz": "Seyrantepe",
+				"yonTers": "Kabataş",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/27se.jpg",
+					"duraklarIlk": "Ulubatlı Hasan Camii",
+					"duraklarIki": "Atatürk İlkokulu",
+					"duraklarUc": "İtfaiye",
+					"duraklarDort": "Polis Lojmanları",
+					"duraklarBes": "Birlik Mahallesi",
+					"duraklarAlti": "Tamirhane",
+					"duraklarYedi": "Sanayi Yolu",
+					"duraklarSekiz": "Sanayi Sitesi",
+					"duraklarDokuz": "4.Levent",
+					"duraklarOn": "Beşiktaş Meydan",
+					"duraklarOnbir": "Akaretler",
+					"duraklarOniki": "Kabataş"
+
+				}
+
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/km27.png",
+				"otobusAdi": "KM27",
+				"yonDuz": "Yenişehir",
+				"yonTers": "Pendik Metro",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/km27.jpg",
+					"duraklarIlk": "Eşref Bitlis Bulvarı",
+					"duraklarIki": "Bulvar Girişi",
+					"duraklarUc": "Yenişehir İtfaiye",
+					"duraklarDort": "Reyhan Caddesi",
+					"duraklarBes": "Tuba Sokak",
+					"duraklarAlti": "Birkent Sitesi",
+					"duraklarYedi": "Fenerbahçe Sitesi",
+					"duraklarSekiz": "Engin Sitesi",
+					"duraklarDokuz": "Yücel Sitesi",
+					"duraklarOn": "Birlik Sitesi",
+					"duraklarOnbir": "Pendik Marina",
+					"duraklarOniki": "Pendik"
+
+				}
+
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/47l.png",
+				"otobusAdi": "47L",
+				"yonDuz": "Binevler",
+				"yonTers": "Hacıosman",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/47l.jpg",
+					"duraklarIlk": "Veysel Karani Caddesi",
+					"duraklarIki": "Nilgün Sokak",
+					"duraklarUc": "Cumhurriyet Ortaokulu",
+					"duraklarDort": "Adnan Menderes Camii",
+					"duraklarBes": "Vadi İstambul",
+					"duraklarAlti": "Türk Telekom Stadyumu",
+					"duraklarYedi": "Atatürk Oto Sanayi",
+					"duraklarSekiz": "Farih Park Ormanı",
+					"duraklarDokuz": "Derbent",
+					"duraklarOn": "Sariyer Belediyesi",
+					"duraklarOnbir": "Fatih Ormanı",
+					"duraklarOniki": "Haciosman Metro"
+
+				}
+
+			}
+
+		]
+
+	},
+	{
+		"id": 2,
+		"hatAdi": "29",
+		"hatResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/hatOtobus/29.png",
+		"otobusler": [{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/29a.png",
+				"otobusAdi": "29A",
+				"yonDuz": "Derbent Mahallesi",
+				"yonTers": "Beşiktaş",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/29a.jpg",
+					"duraklarIlk": "Ulu Caddesi",
+					"duraklarIki": "Çamlıtepe",
+					"duraklarUc": "Fatih Ormanı",
+					"duraklarDort": "Atatürk Sanayi Kavşak",
+					"duraklarBes": "Sariyer Belediyesi",
+					"duraklarAlti": "Maslak",
+					"duraklarYedi": "Seyrantepe Yolu",
+					"duraklarSekiz": "Levent",
+					"duraklarDokuz": "Balmumcu",
+					"duraklarOn": "Barbaros Bulvarı",
+					"duraklarOnbir": "Bahçeşehir Üniversitesi",
+					"duraklarOniki": "Beşiktaş iskele"
+				}
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/29b.png",
+				"otobusAdi": "29B",
+				"yonDuz": "Fatih Sultan Mehmet",
+				"yonTers": "4.Levent",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/29b.jpg",
+					"duraklarIlk": "Dumlupinar İlkokulu",
+					"duraklarIki": "Bilgi Sokak",
+					"duraklarUc": "Kavşak",
+					"duraklarDort": "İski",
+					"duraklarBes": "Bal Sokak",
+					"duraklarAlti": "Posta Yolu",
+					"duraklarYedi": "Meydan",
+					"duraklarSekiz": "Reşitpaşa",
+					"duraklarDokuz": "Fırat Sokak",
+					"duraklarOn": "Seyrantepe Yolu",
+					"duraklarOnbir": "Emniyetevler",
+					"duraklarOniki": "4.Levent Metro"
+
+				}
+
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/29d.png",
+				"otobusAdi": "29D",
+				"yonDuz": "Ferahevler",
+				"yonTers": "Kabataş",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/29d.jpg",
+					"duraklarIlk": "Ferahevler",
+					"duraklarIki": "Bağlar Mevkii",
+					"duraklarUc": "Okul",
+					"duraklarDort": "Metin Oktay",
+					"duraklarBes": "Sarıyer Kaymakamlığı",
+					"duraklarAlti": "Adnan Kahveci Caddesi",
+					"duraklarYedi": "Ferahevler Yolu",
+					"duraklarSekiz": "Haciosman",
+					"duraklarDokuz": "Derbent",
+					"duraklarOn": "Atatürk Oto Sanayi",
+					"duraklarOnbir": "Balmumcu",
+					"duraklarOniki": "Kabataş"
+
+				}
+
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/29%C5%9F.png",
+				"otobusAdi": "29Ş",
+				"yonDuz": "İstinye Dereiçi",
+				"yonTers": "Şişli",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/29%C5%9F.jpg",
+					"duraklarIlk": "B Blok",
+					"duraklarIki": "İstinye Siteler",
+					"duraklarUc": "İstinye Merkez",
+					"duraklarDort": "Tersane",
+					"duraklarBes": "Tokmak Burnu",
+					"duraklarAlti": "İstinye Bayırı",
+					"duraklarYedi": "Enka Atış Poligonu",
+					"duraklarSekiz": "İTÜ",
+					"duraklarDokuz": "Maslak",
+					"duraklarOn": "4.Levent",
+					"duraklarOnbir": "Gayrettepe",
+					"duraklarOniki": "Şişli"
+
+				}
+
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/29c.png",
+				"otobusAdi": "29C",
+				"yonDuz": "Tarabyaüstü",
+				"yonTers": "Kabataş",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/29c.jpg",
+					"duraklarIlk": "Spor Tesisleri",
+					"duraklarIki": "Tarabyaüstü Park",
+					"duraklarUc": "Meydan",
+					"duraklarDort": "ÖmürTepe",
+					"duraklarBes": "Cumhurriyet Mahallesi",
+					"duraklarAlti": "Merkez Camii",
+					"duraklarYedi": "Mekkenur Camii",
+					"duraklarSekiz": "Tarabya Yolu",
+					"duraklarDokuz": "Haciosman",
+					"duraklarOn": "Sultan Selim Mahallesi",
+					"duraklarOnbir": "Akaretler",
+					"duraklarOniki": "Kabataş"
+
+				}
+
+			}
+
+		]
+
+	},
+	{
+		"id": 3,
+		"hatAdi": "34",
+		"hatResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/hatOtobus/34.png",
+		"otobusler": [{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/34a.png",
+				"otobusAdi": "34A",
+				"yonDuz": "Cevizlibağ",
+				"yonTers": "Söğütlüçeşme",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/34a.jpg",
+					"duraklarIlk": "Cevizlibağ",
+					"duraklarIki": "Topkapı",
+					"duraklarUc": "Bayrampaşa",
+					"duraklarDort": "Edirnekapı",
+					"duraklarBes": "Okmeydanı",
+					"duraklarAlti": "Çağlayan",
+					"duraklarYedi": "Zincirlikuyu",
+					"duraklarSekiz": "15 Temmuz Şehitler Köprüsü",
+					"duraklarDokuz": "Acıbadem",
+					"duraklarOn": "Uzunçayır",
+					"duraklarOnbir": "Fikirtepe",
+					"duraklarOniki": "Söğütlüçeşme"
+				}
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/34as.png",
+				"otobusAdi": "34AS",
+				"yonDuz": "Avcılar",
+				"yonTers": "Söğütlüçeşme",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/34as.jpg",
+					"duraklarIlk": "Avcılar",
+					"duraklarIki": "Şükrübey",
+					"duraklarUc": "Küçükçekmece",
+					"duraklarDort": "Cennet Mahallesi",
+					"duraklarBes": "İncirli",
+					"duraklarAlti": "Cevizlibağ",
+					"duraklarYedi": "Halıcıoğlu",
+					"duraklarSekiz": "Okmeydanı",
+					"duraklarDokuz": "Acıbadem",
+					"duraklarOn": "Uzunçayır",
+					"duraklarOnbir": "Fikirtepe",
+					"duraklarOniki": "Söğütlüçeşme"
+				}
+
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/34b.png",
+				"otobusAdi": "34B",
+				"yonDuz": "Beylikdüzü",
+				"yonTers": "Avcılar",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/34b.jpg",
+					"duraklarIlk": "Beylikdüzü Son Durak",
+					"duraklarIki": "Beykent",
+					"duraklarUc": "Cumhurriyet Mahallesi",
+					"duraklarDort": "Beylikdüzü Belediye",
+					"duraklarBes": "Beylikdüzü",
+					"duraklarAlti": "Güzelyurt",
+					"duraklarYedi": "Haramiye",
+					"duraklarSekiz": "Haramiyedere Sanayi",
+					"duraklarDokuz": "Saadetdere Mahallesi",
+					"duraklarOn": "Mustafa KemalPaşa",
+					"duraklarOnbir": "Cihangir Üniversitesi Mahallesi",
+					"duraklarOniki": "Avcılar Merkez Üniversitesi Kampüsü"
+
+				}
+
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/34bz.png",
+				"otobusAdi": "34BZ",
+				"yonDuz": "Beylikdüzü",
+				"yonTers": "Zincirlikuyu",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/34bz.jpg",
+					"duraklarIlk": "Beylikdüzü Son Durak",
+					"duraklarIki": "Beykent",
+					"duraklarUc": "Cumhurriyet Mahallesi",
+					"duraklarDort": "Saadetdere Mahallesi",
+					"duraklarBes": "Mustafa KemalPaşa",
+					"duraklarAlti": "Küçükçekmece",
+					"duraklarYedi": "Florya",
+					"duraklarSekiz": "Beşyol",
+					"duraklarDokuz": "Okmeydanı Hastane",
+					"duraklarOn": "Çağlayan",
+					"duraklarOnbir": "Mecidiyeköy",
+					"duraklarOniki": "Zincirlikuyu"
+
+				}
+
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/34c.png",
+				"otobusAdi": "34C",
+				"yonDuz": "Beylikdüzü",
+				"yonTers": "Cevizlibağ",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/34c.jpg",
+					"duraklarIlk": "Beylikdüzü Son Durak",
+					"duraklarIki": "Beykent",
+					"duraklarUc": "Cumhurriyet Mahallesi",
+					"duraklarDort": "Haramiye",
+					"duraklarBes": "Mustafa KemalPaşa",
+					"duraklarAlti": "Küçükçekmece",
+					"duraklarYedi": "Sefakoy",
+					"duraklarSekiz": "Yenibosna",
+					"duraklarDokuz": "Şirinevler",
+					"duraklarOn": "Zeytinburnu",
+					"duraklarOnbir": "Merter",
+					"duraklarOniki": "Cevizlibağ"
+
+				}
+
+			}
+
+		]
+
+	},
+	{
+		"id": 4,
+		"hatAdi": "41",
+		"hatResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/hatOtobus/41.png",
+		"otobusler": [{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/41at.png",
+				"otobusAdi": "41AT",
+				"yonDuz": "Ayazağa",
+				"yonTers": "Davutpaşa",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/41at.jpg",
+					"duraklarIlk": "Ayazağa",
+					"duraklarIki": "Bloklar",
+					"duraklarUc": "Yeşiltepe",
+					"duraklarDort": "Ayazağa İlkokulu",
+					"duraklarBes": "Maslak Yolu",
+					"duraklarAlti": "Seyrantepe Yolu",
+					"duraklarYedi": "İnşaat Fakültesi",
+					"duraklarSekiz": "Eğitim Fakültesi",
+					"duraklarDokuz": "Erkek Öğrenci Yurdu",
+					"duraklarOn": "Fakülte B Kapısı",
+					"duraklarOnbir": "İktisadi Ve İdari Bilimler",
+					"duraklarOniki": "Davutpaşa Kampüsü"
+				}
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/41a.png",
+				"otobusAdi": "41A",
+				"yonDuz": "Ayazağa",
+				"yonTers": "Maslak",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/41a.jpg",
+					"duraklarIlk": "Ayazağa",
+					"duraklarIki": "Bloklar",
+					"duraklarUc": "Yeşiltepe",
+					"duraklarDort": "Beykent Üniversitesi",
+					"duraklarBes": "Atatürk Meydanı",
+					"duraklarAlti": "Ayazağa İlkokulu",
+					"duraklarYedi": "Maslak Yolu",
+					"duraklarSekiz": "Ayazağa Caddesi",
+					"duraklarDokuz": "Maslak Kültür Merkezi",
+					"duraklarOn": "İTÜ Rektörlüğü",
+					"duraklarOnbir": " İTÜ Maslak Kampüsü",
+					"duraklarOniki": "Maslak"
+
+				}
+
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/41c.png",
+				"otobusAdi": "41C",
+				"yonDuz": "Ayazağa",
+				"yonTers": "Sarıyer",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/41c.jpg",
+					"duraklarIlk": "Ayazağa",
+					"duraklarIki": "Bloklar",
+					"duraklarUc": "Yeşiltepe",
+					"duraklarDort": "Ayazağa İlkokulu",
+					"duraklarBes": "Maslak Yolu",
+					"duraklarAlti": "Borsa İstanbul",
+					"duraklarYedi": "İstinye Bayırı",
+					"duraklarSekiz": "Kızılay",
+					"duraklarDokuz": "Yeşilevler",
+					"duraklarOn": "Haciosman",
+					"duraklarOnbir": "Fidan Sokak",
+					"duraklarOniki": "Sariyer"
+
+				}
+
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/41e.png",
+				"otobusAdi": "41E",
+				"yonDuz": "Ayazağa",
+				"yonTers": "Kabataş",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/41e.jpg",
+					"duraklarIlk": "Ayazağa",
+					"duraklarIki": "Bloklar",
+					"duraklarUc": "Yeşiltepe",
+					"duraklarDort": "Ayazağa İlkokulu",
+					"duraklarBes": "Maslak Yolu",
+					"duraklarAlti": "Levent",
+					"duraklarYedi": "Zincirlikuyu",
+					"duraklarSekiz": "Yıldız Teknik Üniversitesi",
+					"duraklarDokuz": "Barbaros Bulvarı",
+					"duraklarOn": "Beşiktaş Meydan",
+					"duraklarOnbir": "Akaretler",
+					"duraklarOniki": "Kabataş"
+
+				}
+
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/41st.png",
+				"otobusAdi": "41ST",
+				"yonDuz": "Seyrantepe",
+				"yonTers": "Topkapı",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/41st.jpg",
+					"duraklarIlk": "Seyrantepe",
+					"duraklarIki": "İtfaiye",
+					"duraklarUc": "Seyrantepe Ortaokulu",
+					"duraklarDort": "Asaf Caddesi",
+					"duraklarBes": "Yeşilce Mahallesi",
+					"duraklarAlti": "Emniyetevler",
+					"duraklarYedi": "Genç Osman Caddesi",
+					"duraklarSekiz": "Hilal Park",
+					"duraklarDokuz": "Yahya Kemal Dereiçi",
+					"duraklarOn": "Göksu Sitesi",
+					"duraklarOnbir": "Edirnekapı Kaleboyu",
+					"duraklarOniki": "Topkapı"
+
+				}
+
+			}
+
+		]
+
+	},
+	{
+		"id": 5,
+		"hatAdi": "25",
+		"hatResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/hatOtobus/25.png",
+		"otobusler": [{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/25a.png",
+				"otobusAdi": "25A",
+				"yonDuz": "Rumelikavağı",
+				"yonTers": "Haciosman Metro",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/25a.jpg",
+					"duraklarIlk": "Rumelikavağı",
+					"duraklarIki": "Mendirek",
+					"duraklarUc": "Kavak Yolu",
+					"duraklarDort": "Telli Baba",
+					"duraklarBes": "Sefaret",
+					"duraklarAlti": "Beyaz Park",
+					"duraklarYedi": "Büyükdere",
+					"duraklarSekiz": "Çayırbaşı",
+					"duraklarDokuz": "Kefeliköy",
+					"duraklarOn": "Tabya Altı",
+					"duraklarOnbir": "Siteler Yolu",
+					"duraklarOniki": "Haciosman Metro"
+				}
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/25c.png",
+				"otobusAdi": "25C",
+				"yonDuz": "Tarabyaüstü",
+				"yonTers": "Ferahevler",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/25c.jpg",
+					"duraklarIlk": "Tarabyaüstü",
+					"duraklarIki": "Spor Tesisleri",
+					"duraklarUc": "Şeyh Edebali Parkı",
+					"duraklarDort": "Merkez Camii",
+					"duraklarBes": "Siteler Yolu",
+					"duraklarAlti": "Ferahevler Yolu",
+					"duraklarYedi": "Vatan",
+					"duraklarSekiz": "Yeşilevler",
+					"duraklarDokuz": "Gümüş Damla Sokak",
+					"duraklarOn": "İstinye Merkez",
+					"duraklarOnbir": "İstinye Devlet Hastanesi",
+					"duraklarOniki": "İstinye"
+
+				}
+
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/25e.png",
+				"otobusAdi": "25E",
+				"yonDuz": "Sariyer",
+				"yonTers": "Kabataş",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/25e.jpg",
+					"duraklarIlk": "Sariyer",
+					"duraklarIki": "Yusuf Ziya Stadı",
+					"duraklarUc": "Şehit Mithat Yılmaz Caddesi",
+					"duraklarDort": "Büyükdere",					
+					"duraklarBes": "Çayırbaşı",
+					"duraklarAlti": "Kefeliköy",
+					"duraklarYedi": "Kireçburnu",
+					"duraklarSekiz": "Tarabya",
+					"duraklarDokuz": "Sahil Yolu",
+					"duraklarOn": "Çırağan",
+					"duraklarOnbir": "Kabataş",
+					"duraklarOniki": "Fındıklı"
+
+				}
+
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/25g.png",
+				"otobusAdi": "25G",
+				"yonDuz": "Sariyer",
+				"yonTers": "Taksim",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/25g.jpg",
+					"duraklarIlk": "Sariyer",
+					"duraklarIki": "Yusuf Ziya Stadı",
+					"duraklarUc": "Şehit Mithat Yılmaz Caddesi",
+					"duraklarDort": "Büyükdere",
+					"duraklarBes": "Balıkçılar Caddesi",
+					"duraklarAlti": "Mehmet İpgin",
+					"duraklarYedi": "Sedat Kent",
+					"duraklarSekiz": "Fevziye Mektepleri",
+					"duraklarDokuz": "4.Levent",
+					"duraklarOn": "Zincirlikuyu",
+					"duraklarOnbir": "Elmadağ",
+					"duraklarOniki": "Taksim"
+
+				}
+
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/25y.png",
+				"otobusAdi": "25Y",
+				"yonDuz": "Haciosman Metro",
+				"yonTers": "Yunus Emre",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/25y.jpg",
+					"duraklarIlk": "Haciosman Metro",
+					"duraklarIki": "Siteler Yolu",
+					"duraklarUc": "Ferahevler Yolu",
+					"duraklarDort": "Tarabya Bayırı",
+					"duraklarBes": "Tarab Altı",
+					"duraklarAlti": "KireçBurnu",
+					"duraklarYedi": "Kefeliköy",
+					"duraklarSekiz": "Şifa Yolu",
+					"duraklarDokuz": "Bahçeler",
+					"duraklarOn": "Sarıyer Evleri",
+					"duraklarOnbir": "Park",
+					"duraklarOniki": "Yeni Uyum"
+
+				}
+
+			}
+
+		]
+
+	},
+	{
+		"id": 6,
+		"hatAdi": "15",
+		"hatResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/hatOtobus/15.png",
+		"otobusler": [{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/15a.png",
+				"otobusAdi": "15A",
+				"yonDuz": "Anadolukavağı",
+				"yonTers": "Kavacık",
+				"otobusDetay": {
+					"otobusDetayResim": "",
+					"duraklarIlk": "Anadolukavağı",
+					"duraklarIki": "Destek Komutanlığı",
+					"duraklarUc": "Doğu Kapısı Caddesi",
+					"duraklarDort": "Yuşa Tepesi",
+					"duraklarBes": "Dereyolu",
+					"duraklarAlti": "Servi Burnu",
+					"duraklarYedi": "Beykoz",
+					"duraklarSekiz": "Gümüşsuyu Mahallesi",
+					"duraklarDokuz": "Körpez",
+					"duraklarOn": "Kaptanlar",
+					"duraklarOnbir": "Cumhurriyet Mahallesi",
+					"duraklarOniki": "Kavacık Aktarma"
+				}
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/15b.png",
+				"otobusAdi": "15B",
+				"yonDuz": "Topağacı Mahallesi",
+				"yonTers": "Üsküdar",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/15a.jpg",
+					"duraklarIlk": "Kuran Kursu",
+					"duraklarIki": "Şehit Askeri Çoban",
+					"duraklarUc": "Topağacı",
+					"duraklarDort": "Pazaryeri",
+					"duraklarBes": "Melekler Sokak",
+					"duraklarAlti": "Eşref Bitlis Caddesi",
+					"duraklarYedi": "Santral",
+					"duraklarSekiz": "Şehit Mehmet Şevket Uzun",
+					"duraklarDokuz": "Kuzguncuk",
+					"duraklarOn": "Paşalimanı",
+					"duraklarOnbir": "Tekel Deposu",
+					"duraklarOniki": "Üsküdar Camii Önü"
+
+				}
+
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/15bk.png",
+				"otobusAdi": "15BK",
+				"yonDuz": "Dereseki",
+				"yonTers": "Kadiköy",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/15bk.jpg",
+					"duraklarIlk": "Dereseki",
+					"duraklarIki": "Karakulak Caddesi",
+					"duraklarUc": "Poyraz Sapağı",
+					"duraklarDort": "Akbaba",
+					"duraklarBes": "Cevizli Bahçe",
+					"duraklarAlti": "Çifte Çınarlar",
+					"duraklarYedi": "İsfalt",
+					"duraklarSekiz": "Sağlık Bilimleri Üniversitesi",
+					"duraklarDokuz": "Haydarpaşa Numune Hastanesi",
+					"duraklarOn": "Haydarpaşa Mesleki Ve Teknik Anadolu Lisesi",
+					"duraklarOnbir": "Hamza Yerlikaya",
+					"duraklarOniki": "Kadiköy"
+
+				}
+
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/15ca.png",
+				"otobusAdi": "15CA",
+				"yonDuz": "Büyük Çamlıca Camii",
+				"yonTers": "Bulgurlu Metro",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/15ca.jpg",
+					"duraklarIlk": "Büyük Çamlıca Camii",
+					"duraklarIki": "Alvarlızade Camii",
+					"duraklarUc": "Bulgurlu Metro",
+					"duraklarDort": "Bulgurlu Caddesi",
+					"duraklarBes": "Çeşme",
+					"duraklarAlti": "Kırklar",
+					"duraklarYedi": "Devlet Su İşleri",
+					"duraklarSekiz": "Mobilyacılar Sitesi",
+					"duraklarDokuz": "Bağkur evleri",
+					"duraklarOn": "Göztepe Körpüsü",
+					"duraklarOnbir": "Göztepe Konağı",
+					"duraklarOniki": "Göztepe Durak"
+
+				}
+
+			},
+			{
+				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/15%C3%A7b.png",
+				"otobusAdi": "15ÇB",
+				"yonDuz": "Kavacık",
+				"yonTers": "Çavuşbaşı",
+				"otobusDetay": {
+					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/15%C3%A7b.jpg",
+					"duraklarIlk": "Kavacık Aktarma",
+					"duraklarIki": "Kavacık Sapağı",
+					"duraklarUc": "Sedir Sokak",
+					"duraklarDort": "Rüzgarlı Bahçe",
+					"duraklarBes": "Fidanlık",
+					"duraklarAlti": "Fatih Mahallesi",
+					"duraklarYedi": "Kare Sokak",
+					"duraklarSekiz": "Muhabbet Sokak",
+					"duraklarDokuz": "Demokrasi Caddesi",
+					"duraklarOn": "Mandıra Caddesi",
+					"duraklarOnbir": "Şebnem Sokak",
+					"duraklarOniki": "Çavuşbaşı Yolu"
+
+				}
+
+			}
+
+		]
+
+	}
+
+]
