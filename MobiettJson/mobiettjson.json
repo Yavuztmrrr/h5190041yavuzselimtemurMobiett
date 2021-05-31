@@ -1,7 +1,7 @@
 [{
 		"id": 1,
 		"durakAdi": "27",
-		"hatResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/hatOtobus/27.png",
+		"durakResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/hatOtobus/27.png",
 		"otobusler": [{
 				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/27e.png",
 				"otobusAdi": "27E",
@@ -122,7 +122,7 @@
 	{
 		"id": 2,
 		"durakAdi": "29",
-		"hatResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/hatOtobus/29.png",
+		"durakResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/hatOtobus/29.png",
 		"otobusler": [{
 				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/29a.png",
 				"otobusAdi": "29A",
@@ -243,7 +243,7 @@
 	{
 		"id": 3,
 		"durakAdi": "34",
-		"hatResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/hatOtobus/34.png",
+		"durakResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/hatOtobus/34.png",
 		"otobusler": [{
 				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/34a.png",
 				"otobusAdi": "34A",
@@ -363,7 +363,7 @@
 	{
 		"id": 4,
 		"durakAdi": "41",
-		"hatResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/hatOtobus/41.png",
+		"durakResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/hatOtobus/41.png",
 		"otobusler": [{
 				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/41at.png",
 				"otobusAdi": "41AT",
@@ -484,7 +484,7 @@
 	{
 		"id": 5,
 		"durakAdi": "25",
-		"hatResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/hatOtobus/25.png",
+		"durakResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/hatOtobus/25.png",
 		"otobusler": [{
 				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/25a.png",
 				"otobusAdi": "25A",
@@ -605,7 +605,7 @@
 	{
 		"id": 6,
 		"durakAdi": "15",
-		"hatResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/hatOtobus/15.png",
+		"durakResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/hatOtobus/15.png",
 		"otobusler": [{
 				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/15a.png",
 				"otobusAdi": "15A",
