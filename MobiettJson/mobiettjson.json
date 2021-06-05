@@ -10,7 +10,7 @@
 				"otobusDetay": {
 					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/27e.jpg",
 
-					"duraklar": "Anıt,Sultan Selim Mahallesi,Sultan Selim Caddesi,4.Levent,Fabrikalar,Levent,Zincirlikuyu,Balmumcu,Darphane,Ertuğrul Sitesi,Barbaros Bulvarı,Beşiktaş Meydan"
+					"duraklar": "Şirintepe,Anıt,Sultan Selim Mahallesi Merkez Cami,Sultan Selim Caddesi,Yaşar Doğu İlkokulu,Sultan Selim Mahallesi,4.Levent,Fabrikalar,Levent,Zincirlikuyu,Zincirlikuyu Metrobüs,Balmumcu,Darphane,Ertuğrul Sitesi,Yıldız Teknik Üniversitesi,Barbaros Bulvarı,Beşiktaş Meydan,Akaretler,Kabataş,Fındıklı,Kabataş"
 
 				}
 			},
@@ -21,7 +21,7 @@
 				"yonTers": "Şişli",
 				"otobusDetay": {
 					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/27t.jpg",
-					"duraklar": "Anıt,Sultan Selim Mahallesi,Sultan Selim Caddesi,4.Levent,Fabrikalar,Levent,Gayrettepe Metro,Esentepe,Gayrettepe,Mecidiyeköy,Viyadük,Şişli,Şişli Merkez"
+					"duraklar": "Şirintepe,Anıt,Sultan Selim Mahallesi Merkez Cami,Sultan Selim Caddesi,Yaşar Doğu İlkokulu,Sultan Selim Mahallesi,4.Levent,Fabrikalar,Levent,Zincirlikuyu Üniversite,Gayrettepe Metro,Esentepe,Gayrettepe,Mecidiyeköy Viyadük,Mecidiyeköy Metrobüs,Şişli,Şişli Merkez"
 
 
 				}
@@ -34,7 +34,7 @@
 				"yonTers": "Kabataş",
 				"otobusDetay": {
 					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/27se.jpg",
-					"duraklar": "Ulubatlı Hasan Camii,Atatürk İlkokulu,İtfaiye,Polis Lojmanları,Birlik Mahallesi,Tamirhane,Sanayi Yolu,Sanayi Sitesi,4.Levent,Beşiktaş Meydan,Akaretler,Kabataş"
+					"duraklar": "Seyrantepe,Ulubatlı Hasan Camii,Atatürk İlkokulu,Mescid-i Nur Cami,İtfaiye,Seyrantepe Okulu,Polis Lojmanları,Seyrantepe Merkez Camii,Birlik Mahallesi,Tamirhane,Sanayi Yolu,Sanayi Sitesi,Sultan Selim Mahallesi,4.Levent,Fabrikalar,Levent,Zincirlikuyu,Zincirlikuyu Metrobüs,Balmumcu,Darphane,Ertuğrul Sitesi,Yıldız Teknik Üniversitesi,Barbaros Bulvarı,Beşiktaş Meydan,Akaretler,Kabataş,Fındıklı,Kabataş"
 
 
 				}
@@ -47,7 +47,7 @@
 				"yonTers": "Pendik Metro",
 				"otobusDetay": {
 					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/km27.jpg",
-					"duraklar": "Eşref Bitlis Bulvarı,Bulvar Girişi,Yenişehir,İtfaiye,Reyhan Caddesi,Tuba Sokak,Birkent Sitesi,Fenerbahçe Sitesi,Engin Sitesi,Yücel Sitesi,Birlik Sitesi,Pendik,Marina Pendik"
+					"duraklar": "Sultanbeyli Peronlar,Eşref Bitlis Bulvarı,Bulvar Girişi,Yenişehir İtfaiye,Reyhan Caddesi,Tuba Sokak,Tahir Ekşioğlu Kardeşler Camii,Birkent Sitesi,Çam Evleri,Pendik Kurtköy Spor Kompleksi,Erol Türker İlkokulu,Işılpark Sitesi,Fenerbahçeliler Sitesi,Cumhurriyet Sitesi,Mustafa Akyol Sokak,Engin Sitesi,Atacan Akgül Sitesi,Yücelen Sitesi,Birlik Sitesi,Hakiş Sitesi,Alp Sitesi,Sağlam Sitesi,Bakü Caddesi,Kurtköy İlkokulu,Kanarya,Kurtköy,Mustafa Karuşağı İlkokulu,Kurtköy İsmek,Kader Sokak,Şeyhli,Gedik Üniversitesi,Yavuz Selim And Lisesi,Meslek Lisesi,Ankara Caddesi,Bülbül Sokak,Arif Özçelik,Egemen Sokak,Velibaba Sapağı,Üçevler,Öğrenci Yurdu,Toprakyol,Taşlıbayır,Pendik Köprüsü,Sanayi Sitesi,Pendik Yht İstasyonu,Pendik Devlet Hastanesi,Palmiye,Pendik Marina,Pendik İdo İskelesi,Pendik"
 
 
 				}
