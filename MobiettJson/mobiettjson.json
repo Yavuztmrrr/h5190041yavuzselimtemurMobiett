@@ -77,7 +77,7 @@
 		"otobusler": [{
 				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/29a.png",
 				"otobusAdi": "29A",
-				"yonDuz": "Derbent Mahallesi",
+				"yonDuz": "Derbent M.",
 				"yonTers": "Beşiktaş",
 				"otobusDetay": {
 					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/29a.jpg",
@@ -88,7 +88,7 @@
 			{
 				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/29b.png",
 				"otobusAdi": "29B",
-				"yonDuz": "Fatih Sultan Mehmet",
+				"yonDuz": "Fatih S.M.",
 				"yonTers": "4.Levent",
 				"otobusDetay": {
 					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/29b.jpg",
@@ -114,7 +114,7 @@
 			{
 				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/29%C5%9F.png",
 				"otobusAdi": "29Ş",
-				"yonDuz": "İstinye Dereiçi",
+				"yonDuz": "İstinye D",
 				"yonTers": "Şişli",
 				"otobusDetay": {
 					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/29%C5%9F.jpg",
@@ -290,7 +290,7 @@
 				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/25a.png",
 				"otobusAdi": "25A",
 				"yonDuz": "Rumelikavağı",
-				"yonTers": "Haciosman Metro",
+				"yonTers": "Haciosman M.",
 				"otobusDetay": {
 					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/25a.jpg",
 					"duraklar": "Rumelikavağı,Mendirek,Kavak Yolu,Telli Baba,Sefaret,Beyaz Park,Büyükdere,Çayırbaşı,Kefeliköy,Tabya Altı,Siteler Yolu,Haciosman Metro"
@@ -371,7 +371,7 @@
 			{
 				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/15b.png",
 				"otobusAdi": "15B",
-				"yonDuz": "Topağacı Mahallesi",
+				"yonDuz": "Topağacı M.",
 				"yonTers": "Üsküdar",
 				"otobusDetay": {
 					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/15a.jpg",
@@ -397,7 +397,7 @@
 			{
 				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/15ca.png",
 				"otobusAdi": "15CA",
-				"yonDuz": "Büyük Çamlıca Camii",
+				"yonDuz": "Büyük Ç. Camii",
 				"yonTers": "Bulgurlu Metro",
 				"otobusDetay": {
 					"otobusDetayResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusDetay/15ca.jpg",
