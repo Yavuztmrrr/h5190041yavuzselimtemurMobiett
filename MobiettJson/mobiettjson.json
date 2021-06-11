@@ -1,6 +1,6 @@
 [{
 		"id": 1,
-		"durakAdi": " Durak: 27",
+		"durakAdi": "27",
 		"durakResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/durakLogo/duraklogo.png",
 		"otobusler": [{
 				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/27e.png",
@@ -72,7 +72,7 @@
 	},
 	{
 		"id": 2,
-		"durakAdi": " Durak: 29",
+		"durakAdi": "29",
 		"durakResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/durakLogo/duraklogo.png",
 		"otobusler": [{
 				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/29a.png",
@@ -143,7 +143,7 @@
 	},
 	{
 		"id": 3,
-		"durakAdi": " Durak: 34",
+		"durakAdi": "34",
 			"durakResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/durakLogo/duraklogo.png",
 		"otobusler": [{
 				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/34a.png",
@@ -213,7 +213,7 @@
 	},
 	{
 		"id": 4,
-		"durakAdi": " Durak: 41",
+		"durakAdi": "41",
 		"durakResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/durakLogo/duraklogo.png",
 		"otobusler": [{
 				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/41at.png",
@@ -284,7 +284,7 @@
 	},
 	{
 		"id": 5,
-		"durakAdi": " Durak: 25",
+		"durakAdi": "25",
 		"durakResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/durakLogo/duraklogo.png",
 		"otobusler": [{
 				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/25a.png",
@@ -355,7 +355,7 @@
 	},
 	{
 		"id": 6,
-		"durakAdi": " Durak: 15",
+		"durakAdi": "15",
 		"durakResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/durakLogo/duraklogo.png",
 		"otobusler": [{
 				"otobusResim": "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemurMobiett/main/otobusler/15a.png",
